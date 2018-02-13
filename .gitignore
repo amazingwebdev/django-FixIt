@@ -5,3 +5,5 @@ settings_local.py
 .DS_Store
 *.css.map
 oneoff.py
+
+.idea/
